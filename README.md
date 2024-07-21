@@ -1,7 +1,7 @@
 # Sugar Cosmetics Dashboard
 
 ## Project Overview
-Developed a streamlined Tableau tool for Sugar Cosmetics, highlighting sales and spending trends. Provided actionable insights to drive targeted sales efforts, aiming for a 5% revenue increase. Used dashboard data to reﬁne marketing approaches and boost revenue for Sugar Cosmetics.
+Developed a streamlined PowerBI tool for Sugar Cosmetics, highlighting sales and spending trends. Provided actionable insights to drive targeted sales efforts, aiming for a 5% revenue increase. Used dashboard data to reﬁne marketing approaches and boost revenue for Sugar Cosmetics.
 
 ### Data Source
 Sugar Cosmetics Data: The primary dataset used for this analysis is the "Sugar Data V2" file, containing detailed information about the sugar cosmetics data.
